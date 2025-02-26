@@ -21,8 +21,7 @@ Use SSH to log in to your VPS. Replace `user` and `your_vps_ip` with your actual
 
 ```bash
 ssh user@your_vps_ip
-# Example:
-ssh deployer@193.203.160.238
+
 ```
 
 #### **1.3. Install Essential Tools (If Not Present)**
